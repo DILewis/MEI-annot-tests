@@ -87,7 +87,8 @@
                            <note oct="4" pname="c" dur="4" xml:id="nslz44f"/>
                         </layer>
                      </staff>
-                           <annot xml:id="a1rnu981" startid="#nq6xssj2" endid="#nykmpvx2">This is a simple annotation</annot>
+                     <annot xml:id="a1rnu981" startid="#nq6xssj2"
+			    endid="#nykmpvx2" type="score">This is a simple annotation</annot>
                   </measure>
                   <measure n="5" xml:id="m92faoa">
                      <staff n="1" xml:id="sfk1wyi2">
