@@ -48,13 +48,13 @@
                   </measure>
                   <measure n="2" xml:id="my74ufd">
                      <staff n="1" xml:id="srmqqoj1">
-                        <layer xml:id="lfb9rvf">
+                        <layer xml:id="lfb9rvf" n="1">
                            <note oct="5" pname="g" dur="4" xml:id="nlwaa011"/>
                            <note oct="5" pname="g" dur="4" xml:id="np4c1tj1"/>
                         </layer>
                      </staff>
                      <staff n="2" xml:id="sxq093y2">
-                        <layer xml:id="l6rkn5x1">
+                        <layer xml:id="l6rkn5x1" n="1">
                            <note oct="4" pname="e" dur="4" xml:id="nj5jsgp1"/>
                            <note oct="4" pname="c" dur="4" xml:id="nvwg069"/>
                         </layer>
@@ -62,13 +62,13 @@
                   </measure>
                   <measure n="3" xml:id="mrjmux4">
                      <staff n="1" xml:id="s9gkth61">
-                        <layer xml:id="lb87pd91">
+                        <layer xml:id="lb87pd91" n="1">
                            <note oct="5" pname="a" dur="4" xml:id="nq6xssj2"/>
                            <note oct="5" pname="a" dur="4" xml:id="nk1890d1"/>
                         </layer>
                      </staff>
                      <staff n="2" xml:id="s1qx6uh1">
-                        <layer xml:id="lqft9yb">
+                        <layer xml:id="lqft9yb" n="1">
                            <note oct="4" pname="f" dur="4" xml:id="n6b42sf1"/>
                            <note oct="4" pname="c" dur="4" xml:id="nwigvhh1"/>
                         </layer>
@@ -76,29 +76,29 @@
                   </measure>
                   <measure n="4" xml:id="mg5u8cq2">
                      <staff n="1" xml:id="soy5ykl1">
-                        <layer xml:id="ld2kjmg1">
+                        <layer xml:id="ld2kjmg1" n="1">
                            <note oct="5" pname="g" dur="4" xml:id="ncr2bjb"/>
                            <note oct="5" pname="g" dur="4" xml:id="nykmpvx2"/>
                         </layer>
                      </staff>
                      <staff n="2" xml:id="suemxj91">
-                        <layer xml:id="lnsjro9">
+                        <layer xml:id="lnsjro9" n="1">
                            <note oct="4" pname="e" dur="4" xml:id="nbmraj6"/>
                            <note oct="4" pname="c" dur="4" xml:id="nslz44f"/>
                         </layer>
                      </staff>
                      <annot xml:id="a1rnu981" startid="#nq6xssj2"
-			    endid="#nykmpvx2" type="score">This is a simple annotation</annot>
+			    endid="#nykmpvx2" staff="1" type="score">This is a simple annotation</annot>
                   </measure>
                   <measure n="5" xml:id="m92faoa">
                      <staff n="1" xml:id="sfk1wyi2">
-                        <layer xml:id="lmquitj1">
+                        <layer xml:id="lmquitj1" n="1">
                            <note oct="5" pname="f" dur="4" xml:id="n1vrws41"/>
                            <note oct="5" pname="f" dur="4" xml:id="np7zyfw2"/>
                         </layer>
                      </staff>
                      <staff n="2" xml:id="sl4sgbk1">
-                        <layer xml:id="lc3lu081">
+                        <layer xml:id="lc3lu081" n="1">
                            <note oct="4" pname="d" dur="4" xml:id="ncbbsro2"/>
                            <note oct="3" pname="b" dur="4" xml:id="n6a0nzf1"/>
                         </layer>
@@ -106,13 +106,13 @@
                   </measure>
                   <measure n="6" xml:id="mu1790h">
                      <staff n="1" xml:id="sxqcg1t2">
-                        <layer xml:id="l1cw2jj2">
+                        <layer xml:id="l1cw2jj2" n="1">
                            <note oct="5" pname="e" dur="4" xml:id="n9j371"/>
                            <note oct="5" pname="e" dur="4" xml:id="n905ibi2"/>
                         </layer>
                      </staff>
                      <staff n="2" xml:id="sk8bu7w1">
-                        <layer xml:id="l37lxhq2">
+                        <layer xml:id="l37lxhq2" n="1">
                            <note oct="4" pname="c" dur="4" xml:id="nnc8sz41"/>
                            <note oct="3" pname="a" dur="4" xml:id="njmb63r2"/>
                         </layer>
@@ -120,7 +120,7 @@
                   </measure>
                   <measure n="7" xml:id="ml42jy2">
                      <staff n="1" xml:id="srgckk5">
-                        <layer xml:id="lv7qwhe1">
+                        <layer xml:id="lv7qwhe1" n="1">
                            <note oct="5" pname="d" dur="4" xml:id="nyzjv0c"/>
                            <beam xml:id="bkn0iyr1">
 	                           <note oct="5" pname="d" dur="8" dots="1" xml:id="nwwn51v2"/>
@@ -129,7 +129,7 @@
                         </layer>
                      </staff>
                      <staff n="2" xml:id="s0i63fz1">
-                        <layer xml:id="l2t6hs01">
+                        <layer xml:id="l2t6hs01" n="1">
                            <note oct="3" pname="f" dur="4" xml:id="ncgvk2e"/>
                            <note oct="3" pname="g" dur="4" xml:id="nvk746x1"/>
                         </layer>
