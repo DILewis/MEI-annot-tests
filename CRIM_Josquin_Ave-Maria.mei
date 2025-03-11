@@ -186,7 +186,7 @@
          <mRest dur="breve" xml:id="m-79"/>
         </layer>
        </staff>
-         <annot xml:id="a-01" type="score" staff="1" startid="#m-64" endid="#m-118">
+         <annot xml:id="a-01" type="score analytical" staff="1" startid="#m-64" endid="#m-118" label="First entry">
             First entry
          </annot>
       </measure>
@@ -756,7 +756,6 @@
        </staff>
       </measure>
       <measure n="16" xml:id="m-376">
-       <tie endid="#m-399" startid="#m-380" xml:id="m-381"/>
        <staff n="1" xml:id="m-377">
         <layer n="1" xml:id="m-378">
          <rest dur="1" dur.ppq="1024" xml:id="m-379"/>
