@@ -186,7 +186,7 @@
          <mRest dur="breve" xml:id="m-79"/>
         </layer>
        </staff>
-         <annot xml:id="a-01" type="score analytical" staff="1" startid="#m-64" endid="#m-118" label="First entry">
+         <annot xml:id="a-01" type="score analytical" plist="#m-64 #m-65 #m-83 #m-84 #m-98 #m-99 #m-118" label="First entry">
             First entry
          </annot>
       </measure>
@@ -264,6 +264,9 @@
        </staff>
        <annot xml:id="a-02" type="score" staff="2" startid="#m-98" endid="#m-162">
             Canon at octave (and 2 breves)
+       </annot>
+       <annot xml:id="a-03" type="score" plist="#a-01 #a-02">
+            Two entries in canon
        </annot>
       </measure>
       <measure n="4" xml:id="m-115">

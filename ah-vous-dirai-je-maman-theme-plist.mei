@@ -63,8 +63,6 @@
                   <measure n="3" xml:id="mrjmux4">
                      <staff n="1" xml:id="s9gkth61">
                         <layer xml:id="lb87pd91" n="1">
-                          <annot xml:id="a1rnu981" plist="#nq6xssj2 #nk1890d1 #ncr2bjb #nykmpvx2"
-				 type="score">This is a simple annotation</annot>
                            <note oct="5" pname="a" dur="4" xml:id="nq6xssj2"/>
                            <note oct="5" pname="a" dur="4" xml:id="nk1890d1"/>
                         </layer>
@@ -75,6 +73,8 @@
                            <note oct="4" pname="c" dur="4" xml:id="nwigvhh1"/>
                         </layer>
                      </staff>
+                     <annot xml:id="a1rnu981" plist="#nq6xssj2 #nk1890d1 #ncr2bjb #nykmpvx2"
+				 type="score">This is a simple annotation</annot>
                   </measure>
                   <measure n="4" xml:id="mg5u8cq2">
                      <staff n="1" xml:id="soy5ykl1">
