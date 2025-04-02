@@ -89,6 +89,10 @@
                            <note oct="4" pname="c" dur="4" xml:id="nslz44f"/>
                         </layer>
                      </staff>
+                     <hairpin id="h-01" form="cres" layer="1" place="above" staff="1" tstamp="1" tstamp2="2"/>
+                     <annot xml:id="a6snu975" startid="#h-01"
+									endid="#nykmpvx2" staff="1" 
+                           type="score">This annotation starts with a hairpin</annot>
                   </measure>
                   <measure n="5" xml:id="m92faoa">
                      <staff n="1" xml:id="sfk1wyi2">
