@@ -344,6 +344,7 @@
          <mRest dur="breve" xml:id="m-155"/>
         </layer>
        </staff>
+       <annot type="score" xml:id="a-03" tstamp="1" tstamp2="5m" staff="3 4">Two-voice complex</annot>
       </measure>
       <measure n="6" xml:id="m-156">
        <staff n="1" xml:id="m-157">
